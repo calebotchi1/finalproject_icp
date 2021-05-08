@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1620479922 source:c:\users\kcqua\documents\icp\finals\first\icp pj\hmmmm\main.cpp
+	<vector>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<vector>
+	<iterator>
+
